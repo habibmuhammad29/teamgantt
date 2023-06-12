@@ -23,5 +23,6 @@ TeamGantt memiliki sejumlah fitur yang dirancang untuk membantu tim dalam merenc
  Fitur-fitur ini menjadikan TeamGantt sebagai alat manajemen proyek yang lengkap dan dapat disesuaikan untuk membantu tim dalam mengelola proyek dengan lebih efisien.
  
  # II. Cara Penggunaan Tool Teamgantt
- ![image.png] ( {https://github.com/habibmuhammad29/teamgantt/commit/aa1cd1eda6e730e813f0436738711ed75c3b5e93#commitcomment-117580552} )
+ ![images](https://github.com/habibmuhammad29/teamgantt/assets/96823685/2edff0a1-248d-4ab2-bf4e-37728dbdca85)
+
  # A. Mendaftar Akun Teamgantt
