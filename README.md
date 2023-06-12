@@ -2,9 +2,8 @@
 Muhammad Habib Arrosyid (19081010034)
 
 # Teamgant
-# 1. Tentang Teamgantt
+# I. Tentang Teamgantt
 # A. Pengertian dan Penggunaan Tentang Teamgantt
-a.	Pengertian dan penggunaan tentang teamgantt
 TeamGantt adalah perangkat lunak manajemen proyek berbasis web yang dirancang untuk membantu tim dalam merencanakan, mengelola, dan melacak proyek secara efisien. Ini adalah alat kolaboratif yang memungkinkan anggota tim untuk bekerja bersama, membagikan informasi, mengelola tugas, dan mengikuti perkembangan proyek dengan mudah.
 Penggunaan TeamGantt dapat bervariasi tergantung pada kebutuhan tim dan proyek, berikut ini adalah beberapa penggunaan umum dari TeamGantt: Perencanaan Proyek, Manajemen Tugas, Kolaborasi Tim, Pelaporan dan Analisis, Integrasi dengan Alat Lain. TeamGantt dapat digunakan untuk berbagai jenis proyek, mulai dari proyek kecil hingga proyek skala besar. Ini cocok untuk berbagai industri dan sektor, termasuk teknologi, konstruksi, kreatif, dan lain-lain.
 
@@ -22,3 +21,7 @@ TeamGantt memiliki sejumlah fitur yang dirancang untuk membantu tim dalam merenc
 5. Manajemen Sumber Daya: TeamGantt memungkinkan Anda untuk mengelola sumber daya tim dengan mudah. Anda dapat melihat siapa yang bertanggung jawab atas setiap tugas, mengatur beban kerja, dan melacak ketersediaan anggota tim. Fitur ini membantu Anda mengoptimalkan penggunaan sumber daya dan menghindari overbooking atau penugasan yang tidak seimbang.
 
  Fitur-fitur ini menjadikan TeamGantt sebagai alat manajemen proyek yang lengkap dan dapat disesuaikan untuk membantu tim dalam mengelola proyek dengan lebih efisien.
+ 
+ # II. Cara Penggunaan Tool Teamgantt
+ 
+ # A. Mendaftar Akun Teamgantt
