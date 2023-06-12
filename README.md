@@ -22,7 +22,22 @@ TeamGantt memiliki sejumlah fitur yang dirancang untuk membantu tim dalam merenc
 
  Fitur-fitur ini menjadikan TeamGantt sebagai alat manajemen proyek yang lengkap dan dapat disesuaikan untuk membantu tim dalam mengelola proyek dengan lebih efisien.
  
- # II. Cara Penggunaan Tool Teamgantt
+# II. Cara Penggunaan Tool Teamgantt
  ![images](https://github.com/habibmuhammad29/teamgantt/assets/96823685/2edff0a1-248d-4ab2-bf4e-37728dbdca85)
 
- # A. Mendaftar Akun Teamgantt
+# A. Mendaftar Akun Teamgantt
+# 1. Persiapan Awal 
+ Untuk menggunakan Teamgantt, anda dapat mengunjungi situs web resmi Teamgantt di https://www.teamgantt.com/ Jika Anda baru pertama kali menggunakan Teamgantt dan belum memiliki akun, Anda perlu membuat akun terlebih dahulu. Untuk yang pertama masukkan pemilik project, email pemilik, nama project, untuk langkah kedua masukkan password baru dan konfirmasi passwpod. Setelah itu klik create project. Setelah melakukan registrasi anda akan langsung diarahkan pada fitur dashboard dari teamgantt itu sendiri. 
+ a. Buat Akun 
+ pada tahap ini memasukkan owner project, email owner, dan name prpoject. 
+ ![teamgantt 1](https://github.com/habibmuhammad29/teamgantt/assets/96823685/5c314014-651d-4c98-afe9-e350c3907dfb)
+ b. Password
+ Pada tahap ini memasukkan password baru untuk teamgantt dan konfirmasi password dan setelah itu diarahkan pada halaman utama teamgantt 
+ ![teamgantt 2](https://github.com/habibmuhammad29/teamgantt/assets/96823685/cda4063d-f7fc-4c02-a003-77f7e8ae441a)
+
+# 2. Halaman Utama Teamgant
+Terdapat beberapa fitur - fitur yang ditawarkan yaitu sebagai berikut 
+ ![teamgantt0](https://github.com/habibmuhammad29/teamgantt/assets/96823685/e6acc9a5-b7e1-450d-b56b-7ae03155808b)
+![teamgantt 3](https://github.com/habibmuhammad29/teamgantt/assets/96823685/198d6ecf-835c-4458-9019-49e21340bacd)
+
+# 3. Bidang Pekerjaan
