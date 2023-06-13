@@ -1,7 +1,7 @@
 # Teamgantt-Tool-Project-Management
 Muhammad Habib Arrosyid (19081010034)
 
-# Teamgant
+# Teamgantt
 # I. Tentang Teamgantt
 # A. Pengertian dan Penggunaan Tentang Teamgantt
 TeamGantt adalah perangkat lunak manajemen proyek berbasis web yang dirancang untuk membantu tim dalam merencanakan, mengelola, dan melacak proyek secara efisien. Ini adalah alat kolaboratif yang memungkinkan anggota tim untuk bekerja bersama, membagikan informasi, mengelola tugas, dan mengikuti perkembangan proyek dengan mudah.
@@ -40,4 +40,33 @@ Terdapat beberapa fitur - fitur yang ditawarkan yaitu sebagai berikut
  ![teamgantt0](https://github.com/habibmuhammad29/teamgantt/assets/96823685/e6acc9a5-b7e1-450d-b56b-7ae03155808b)
 ![teamgantt 3](https://github.com/habibmuhammad29/teamgantt/assets/96823685/198d6ecf-835c-4458-9019-49e21340bacd)
 
-# 3. Bidang Pekerjaan
+# 3. Membuat Project Pertama
+Setelah melakukan beberapa proses registrasi untuk mengakses teamgantt, berikut adalah tampilan awal untuk membuat project pada teamgantt : 
+
+Header: Pada bagian atas halaman, Anda akan melihat header Focalboard. Di sini, Anda akan menemukan nama aplikasi dan mungkin beberapa menu dan opsi lainnya tergantung pada konfigurasi khusus.
+
+Menu Samping: Di sebelah kiri halaman, ada menu samping yang berisi berbagai opsi dan navigasi. Menu ini berisi profil akun, fitur untuk diskusi, fitur laporan, pencarian, serta opsi untuk membuat proyek baru, dan mengelola pengaturan.
+
+New Project: Pada fitur new project ini, silahkan klik create a new project dimana di dalamnya terdapat beberapa ketentuan untuk memenuhi pproject baru diantaranya, project name, start date, memilih template, memilih devault view, memilih days in week, dan setelah itu klik create new project. 
+
+Template: Pada fitur template ini terdapat beberapa pilihan sesuai dengan kebutuhan project yang sedang dan akan dikerjakan, diantaranya yaitu blank project, basic project, get started with teamgantt, marketing, design dan creative, event planning, construction, software development, admin dan personal. 
+
+Setelah melakukan beberapa pemilihan, muncul tampilan template project yang sudah di pilih dan akan dikerjakan. 
+
+# 4 Menampilkan New Project 
+Setelah kita membuat proyek sesuai dengan kebutuhan, kita dapat melihat dan mengatur kebutuhan proyek. 
+
+![teamganttiv](https://github.com/habibmuhammad29/teamgantt/assets/96823685/74637422-b585-4118-8086-3b42a32e94f3)
+berikut tampilan untuk new project
+
+# 5 Menampilkan Tampilan Untuk Membuat Project
+Berikut di bawah ini merupakan tampilan untuk membuat project yang kita inginkan
+
+![teamgantt5](https://github.com/habibmuhammad29/teamgantt/assets/96823685/d1f2853e-1ad8-4c86-889b-c07fec0ffe6b)
+Berikut tampilan untuk membuat new project
+
+# 6 Menampilkan Tampilan Setelah Memilih Template Project
+Berikut dibawah ini tampilan awal project yang sudah di pilih pada membuat 
+
+![teamgantt6](https://github.com/habibmuhammad29/teamgantt/assets/96823685/26b5c8d7-38c4-4cd0-ab94-4a747eb348ec)
+Berikut tampilan setelah memilih template project  
